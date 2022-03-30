@@ -1,0 +1,94 @@
+body {
+
+	background-color: lightskyblue;
+	front-size: 15px;
+	margin: 100px;
+}
+h1 {
+	color: navy;
+}
+p {
+	color: midnightblue;
+}
+
+a{
+	transition-duration: none;
+	color: navy;
+
+}
+a:hover  {
+	    color: red;
+	}
+
+
+a:active {
+
+}
+
+.box-1 {
+	background-color: steelblue;
+	
+	border-right: 5px navy solid;
+	border-left:  5px navy  solid;
+	border-top:  5px navy solid;
+	border-bottom:   5px navy solid;
+
+}  
+
+.box-2 {
+	background-color: steelblue;
+	color: red;
+	border-right: 5px navy solid;
+	border-left:  5px navy  solid;
+	border-top:  5px navy solid;
+	border-bottom:   5px navy solid;
+}  
+
+.box-3 {
+	background-color: steelblue;
+	color: red;
+	border-right: 5px navy solid;
+	border-left:  5px navy  solid;
+	border-top:  5px navy solid;
+	border-bottom:   5px navy solid;
+}  
+
+.box-4 {
+	background-color: steelblue;
+	color: red;
+	border-right: 5px navy solid;
+	border-left:  5px navy  solid;
+	border-top:  5px navy solid;
+	border-bottom:   5px navy solid;
+}  
+
+.catgo {
+	border:  5px solid navy
+	margin 20px;
+	border-radius: 20px;
+	padding: 20px;
+
+}
+
+.catgo h1 {
+	text-align:  center;
+	text-decoration: underline;
+	text-transform: uppercase;
+
+}
+
+
+.catgo  ul li {
+
+	border-bottom: 1px dotted  navy;
+
+
+
+}
+
+
+
+
+
+
+
